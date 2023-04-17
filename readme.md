@@ -1,1 +1,1 @@
-# Linux Basics for Beginners
+# Linux Fundamentals
